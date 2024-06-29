@@ -1,0 +1,34 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.swo
+*.bak
+*.old
+
+# Flutter specific
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+android/.gradle/
+android/app/build/
+android/local.properties
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+pubspec.lock
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
